@@ -1,3 +1,7 @@
 initialuploading
+<<<<<<< HEAD
 XData
 Y
+=======
+MergeTest
+>>>>>>> origin/develop
